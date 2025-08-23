@@ -2,7 +2,7 @@ import asyncio
 from playwright.async_api import async_playwright
 import pandas as pd
 
-async def scrape_naukri(job_title="Data Scientist", location="Bangalore"):
+async def scrape_naukri(job_title="Data Scientist", location="Mumbai"):
     results = []
 
     async with async_playwright() as p:
