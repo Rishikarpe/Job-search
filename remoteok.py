@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-import time
 
 BASE_URL = "https://remoteok.com/"
 
