@@ -16,11 +16,6 @@ It allows you to enter a job title, location, and number of pages, then displays
 
 ---
 
-## 📂 Project Structure
-│── aggregator.py # Main Streamlit app
-│── jobs.csv # Output file (generated)
-│── README.md # Documentation
----
 
 ## ⚙️ Installation
 
@@ -28,3 +23,19 @@ It allows you to enter a job title, location, and number of pages, then displays
    ```bash
    git clone https://github.com/yourusername/job-aggregator.git
    cd job-aggregator
+
+2. Install dependencies:
+   ```bash
+   pip install streamlit requests beautifulsoup4 pandas
+
+3. Run the Streamlit app:
+   ```bash
+    streamlit run aggregator.py
+
+## Example Output
+| Title            | Company        | Location | Summary             | Link            | Source      |
+| ---------------- | -------------- | -------- | ------------------- | --------------- | ----------- |
+| Data Scientist   | Acme Corp      | Mumbai   | Work on ML models…  | simplyhired.com | SimplyHired |
+| Python Developer | Tech Solutions | Pune     | Looking for Python… | timesjobs.com   | TimesJobs   |
+
+
