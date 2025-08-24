@@ -13,6 +13,8 @@ It allows you to enter a job title, location, and number of pages, then displays
 - Interactive **Streamlit UI**.
 - Export results to **CSV** with one click.
 - Lightweight and easy to customize.
+<img width="662" height="576" alt="image" src="https://github.com/user-attachments/assets/a157e241-e532-46d1-8996-49e196446871" />
+
 
 ---
 
