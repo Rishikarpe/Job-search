@@ -39,3 +39,8 @@ It allows you to enter a job title, location, and number of pages, then displays
 | Python Developer | Tech Solutions | Pune     | Looking for Python… | timesjobs.com   | TimesJobs   |
 
 
+## Output
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/aa55e62c-f4d9-4f31-8bab-f7b3b34e5285" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ccb3eee0-a4b4-4857-a202-12e4f00c0f3b" />
+
+
